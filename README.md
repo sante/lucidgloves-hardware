@@ -1,8 +1,12 @@
 # lucidgloves-firmware
-Arduino firmware for DIY haptic gloves. Officially compatible with LucidVR gloves.
-
-Prototype 3 of the LucidVR glove prototype. This is a finger tracking glove that allows you to use your hands in VR. Follow along with Lucas_VRTech's developments on his Tiktok page:
+This repo contains the arduino firmware as well as the STL files for Prototype 3 of the LucidVR glove prototype. This is a finger tracking glove that allows you to use your hands in VR. Follow along with Lucas_VRTech's developments on his Tiktok page:
 https://www.tiktok.com/@lucas_vrtech
+
+# firmware
+Use the lucidgloves.ino file in the firmware folder and flash it onto an arduino nano (one for each hand).
+
+# hardware
+STL files for 3D printing are located in the hardware folder. 
 
 The assembly for each hand is as follows:
 * Spool (5x)
