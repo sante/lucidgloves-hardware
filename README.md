@@ -16,7 +16,7 @@ The assembly for each hand is as follows:
 * GuideRing (2x per finger, 1x for thumb)
 * EndCap (1x per finger, can be substituted for smaller guide ring) 
 
-Disclaimer: You WILL need to print multiple sizes of the EndCap and GuideRing to fit the size of your fingers. Resize these in your slicer. Alternatively, you could print them in TPU for more flexible sizing.
+Disclaimer: You WILL need to print multiple sizes of the EndCap and GuideRing to fit the size of your fingers. Resize these in your slicer. Alternatively, you could print them in TPU for more flexible sizing. I reccomend resizing the EndCaps non-uniformally to squish them down to fit the oval shape of your fingers, this way they don't rotate around.
 
 Required parts for each hand:
 * WL b10k ohm Potentiometer (5x)
