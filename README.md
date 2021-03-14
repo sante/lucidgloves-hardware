@@ -19,13 +19,14 @@ The assembly for each hand is as follows:
 Disclaimer: You WILL need to print multiple sizes of the EndCap and GuideRing to fit the size of your fingers. Resize these in your slicer. Alternatively, you could print them in TPU for more flexible sizing. I reccomend resizing the EndCaps non-uniformally to squish them down to fit the oval shape of your fingers, this way they don't rotate around.
 
 Required parts for each hand:
-* WL b10k ohm Potentiometer (5x)
-* Arduino (Nano)
- - Will eventually be switching to ESP32 development boards for BTLE/Wifi
-* Wiring/Connectors/Breadboards as needed.
- - I recommend crimping/using JST connectors, 5 pin JST-XH 2.54mm fit great on the potentiometers.
-* Glove material of your choice.
- - Recommended: Nylon Inspection Gloves (more flexy), Cycling/Golf gloves (stronger, easier to put on)
+1. WL b10k ohm Potentiometer (5x)
+2.  Arduino (Nano)
+   - Will eventually be switching to ESP32 development boards for BTLE/Wifi
+3.  Wiring/Connectors/Breadboards as needed.
+   - I recommend crimping/using JST connectors, 5 pin JST-XH 2.54mm fit great on the potentiometers.
+4. Cheap retractable badge reels (for the rotary springs)
+5.  Glove material of your choice.
+   - Recommended: Nylon Inspection Gloves (more flexy), Cycling/Golf gloves (stronger, easier to put on)
 
 More information will be available on the LucidVR site very soon.
 Will be releasing video tutorials on how to assemble and setup the gloves.
