@@ -31,6 +31,11 @@ Required parts for each hand: (Please wait on ordering parts as I will be releas
 7. Something to mount the controller/tracker on your hand
    - Elastic works well for oculus controllers, I will be making some 3d printed mounts eventually
 
+Optional:  
+8. Joysticks for locomotion
+   - I will be making a DIY treadmill eventually as well for those who would prefer that
+9. Buttons (Most can be replaced with gestures)
+
 More information will be available on the LucidVR site very soon.
 Will be releasing video tutorials on how to assemble and setup the gloves.
 
