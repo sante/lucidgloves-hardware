@@ -20,14 +20,15 @@ Disclaimer: You WILL need to print multiple sizes of the EndCap and GuideRing to
 
 Required parts for each hand: (Please wait on ordering parts as I will be releasing a parts list soon)
 1. WL b10k ohm Potentiometer (5x)
-2. Arduino (Nano)
+   - You will also need the nuts that are included with the potentiometers.
+3. Arduino (Nano)
    - Will eventually be switching to ESP32 development boards for BTLE/Wifi
-3. Wiring/Connectors/Breadboards as needed.
+4. Wiring/Connectors/Breadboards as needed.
     - I recommend crimping/using JST connectors, 5 pin JST-XH 2.54mm fit great on the potentiometers.
-4. Cheap retractable badge reels (for the rotary springs)
-5. Glove material of your choice.
+5. Cheap retractable badge reels (for the rotary springs)
+6. Glove material of your choice.
    - Recommended: Nylon Inspection Gloves (more flexy), Cycling/Golf gloves (stronger, easier to put on)
-6. Something to mount the controller/tracker on your hand
+7. Something to mount the controller/tracker on your hand
    - Elastic works well for oculus controllers, I will be making some 3d printed mounts eventually
 
 More information will be available on the LucidVR site very soon.
