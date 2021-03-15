@@ -18,7 +18,7 @@ The assembly for each hand is as follows:
 
 Disclaimer: You WILL need to print multiple sizes of the EndCap and GuideRing to fit the size of your fingers. Resize these in your slicer. Alternatively, you could print them in TPU for more flexible sizing. I reccomend resizing the EndCaps non-uniformally to squish them down to fit the oval shape of your fingers, this way they don't rotate around.
 
-Required parts for each hand:
+Required parts for each hand: (Please wait on ordering parts as I will be releasing a parts list soon)
 1. WL b10k ohm Potentiometer (5x)
 2. Arduino (Nano)
    - Will eventually be switching to ESP32 development boards for BTLE/Wifi
