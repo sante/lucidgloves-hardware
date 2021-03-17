@@ -18,25 +18,13 @@ The assembly for each hand is as follows:
 
 Disclaimer: You WILL need to print multiple sizes of the EndCap and GuideRing to fit the size of your fingers. Resize these in your slicer. Alternatively, you could print them in TPU for more flexible sizing. I reccomend resizing the EndCaps non-uniformally to squish them down to fit the oval shape of your fingers, this way they don't rotate around.
 
-Required parts for each hand: (Please wait on ordering parts as I will be releasing a parts list soon)
-1. WL b10k ohm Potentiometer (5x)
-   - You will also need the nuts that are included with the potentiometers.
-3. Arduino (Nano)
-   - Will eventually be switching to ESP32 development boards for BTLE/Wifi
-4. Wiring/Connectors/Breadboards as needed.
-    - I recommend crimping/using JST connectors, 5 pin JST-XH 2.54mm fit great on the potentiometers.
-5. Cheap retractable badge reels (for the rotary springs)
-6. Glove material of your choice.
-   - Recommended: Nylon Inspection Gloves (more flexy), Cycling/Golf gloves (stronger, easier to put on)
-7. Something to mount the controller/tracker on your hand
-   - Elastic works well for oculus controllers, I will be making some 3d printed mounts eventually
-
+**Required parts for each hand: [Parts List](https://github.com/LucidVR/lucidgloves-hardware/wiki/Prototype-3-Parts-List)**  
 Optional:  
-8. Joysticks for locomotion
-   - I will be making a DIY treadmill eventually as well for those who would prefer that
-9. Buttons (Most can be replaced with gestures)
+* Joysticks for locomotion 
+  - will be making a DIY treadmill eventually as well for those who would prefer that  
+* Buttons (Most can be replaced with gestures)
 
-More information will be available on the LucidVR site very soon.
+More information will be available on the [LucidVR site](http://lucidvrtech.com/) very soon.  
 Will be releasing video tutorials on how to assemble and setup the gloves.
 
 # Driver
