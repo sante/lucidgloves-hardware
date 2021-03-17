@@ -8,7 +8,7 @@ Use the lucidgloves.ino file in the firmware folder and flash it onto an arduino
 # Hardware
 STL files for 3D printing are located in the hardware folder. 
 
-The assembly for each hand is as follows:
+The assembly **for each hand** is as follows:
 * Spool (5x)
 * Tensioner (5x)
 * Cover (5x)
